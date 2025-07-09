@@ -1,4 +1,3 @@
-<img width="766" alt="demo" src="https://github.com/user-attachments/assets/99aa2b05-7575-4972-ac3c-c708811c20db" /># ✅ Todo - iOS App
 
 A clean and simple Todo app built using **UIKit** and **Core Data**, allowing users to create multiple categories and items under each category. Supports adding, marking, and searching todo items.
 
